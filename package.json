@@ -4,6 +4,7 @@
   "description": "Test the set-up of a node.js application",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "make test"
   },
   "repository": {

@@ -10,5 +10,7 @@ npm install
 Once you have the correct dependencies, you can run the project by typing:
 ```
 node index.js
+//or
+npm start
 ```
 Enjoy the connection to port 8080 :)
